@@ -1,4 +1,4 @@
-# Massive MIMO Channel Estimation Using Untrained NN
+# Massive MIMO Deep Decoder
 
 Original Article:
 
